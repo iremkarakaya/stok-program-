@@ -1,0 +1,37 @@
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\bin\Debug\STOK.exe.config
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\bin\Debug\STOK.exe
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\bin\Debug\STOK.pdb
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\obj\Debug\STOK.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\obj\Debug\STOK.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\obj\Debug\STOK.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\obj\Debug\STOK.exe
+C:\Users\HP\Desktop\görsel prog\STOK\STOK\obj\Debug\STOK.pdb
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\bin\Debug\STOK.exe.config
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\bin\Debug\STOK.exe
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\bin\Debug\STOK.pdb
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\obj\Debug\STOK.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\obj\Debug\STOK.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\obj\Debug\STOK.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\obj\Debug\STOK.exe
+C:\Users\HP\Desktop\görsel prog\STOK - Kopya\STOK\obj\Debug\STOK.pdb
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\bin\Debug\STOK.exe.config
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\bin\Debug\STOK.exe
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\bin\Debug\STOK.pdb
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\obj\Debug\STOK.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\obj\Debug\STOK.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\obj\Debug\STOK.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\obj\Debug\STOK.exe
+C:\Users\HP\Desktop\görsel prog\stok programı 1820030003\STOK\obj\Debug\STOK.pdb
